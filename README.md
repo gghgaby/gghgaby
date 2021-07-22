@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi 👋
+### I'm Gaby and I'm Front End Developer. 👩🏾‍💻
 
-<!--
-**gabyguzmandev/gabyguzmandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical skills** 🚀
+- Javascript
+- ES6/ES7 and the next
+- CSS (3)
+- HTML
+- React
+- Webpack
+- SASS
+- Clean Code
+- Polymer 1 and 2
+- Lit Element
+- SCRUM Methodology
+- ...and more
 
-Here are some ideas to get you started:
+📫 How to reach me writing an email or message here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
