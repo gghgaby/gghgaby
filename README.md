@@ -1,7 +1,7 @@
 
 # Jelou 👋, I'm Gaby Guzman
 
-### A frontend developer and JS fan from Mexico
+### Front End Dev Sr | Team Leader | Tech speaker from Mexico
 
   
 
