@@ -1,4 +1,4 @@
-# Gaby Guzmán — Senior Front-End Developer
+# Gaby Guzmán — Senior Front-End Developer (IC)
 
 📍 México &nbsp;|&nbsp; 📧 guzmanhgaby@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](www.linkedin.com/in/gghgaby) &nbsp;|&nbsp; ✍️ [Blog (ES)](https://madebygaby.dev/)
 
